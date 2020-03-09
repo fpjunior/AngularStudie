@@ -1,10 +1,10 @@
 # Primeiros passos com Angular e Bootstrap
  
  ## Criando um projeto Angular
- ´´ ng new angular-bootstrap-example ´´
+  ` ng new angular-bootstrap-example `
  
  ## Instalando o bootstrap
- npm install bootstrap (instalando na ultima versão)
+ `npm install bootstrap` (instalando na ultima versão)
 
  - Configurando o  angular.json para responder com o bootstrap
 "styles": [
@@ -14,8 +14,8 @@
 
  - @import '~bootstrap/dist/css/bootstrap.min.css'; (realizar a importação no styles.css)
 
- - npm install ngx-bootstrap --save (substituindo o Jquery)
- - npm install bootstrap ngx-bootstrap --save
+ `npm install ngx-bootstrap --save `(substituindo o Jquery)
+ `npm install bootstrap ngx-bootstrap` --save
 
  - configurando o app.module.ts
 
