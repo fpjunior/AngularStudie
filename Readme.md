@@ -1,7 +1,7 @@
 # Primeiros passos com Angular e Bootstrap
  
  ## Criando um projeto Angular
-  ng new angular-bootstrap-example 
+ ´´ ng new angular-bootstrap-example ´´
  
  ## Instalando o bootstrap
  npm install bootstrap (instalando na ultima versão)
