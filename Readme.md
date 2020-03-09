@@ -43,9 +43,10 @@ export class AppBootstrapModule {}
     ng-bootstrap
     
     ## Links Uteis
-    <br>
     <a href="https://www.npmjs.com/package/json-server">Json Server </a><br>
-     <a href="https://getbootstrap.com/">Json Server </a><br>
+     <a href="https://getbootstrap.com/">BootStrap </a><br>
+      <a href="https://loiane.com//">Loiane </a><br>
+     
     
     
 
