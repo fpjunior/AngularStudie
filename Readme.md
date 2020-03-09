@@ -41,4 +41,9 @@ export class AppBootstrapModule {}
     Bootstrap 4
     ngx-bootstrap
     ng-bootstrap
+    
+    ##Links Uteis
+    JsonServer
+    <a href="https://www.npmjs.com/package/json-server">Json Server </a>
+    
 
