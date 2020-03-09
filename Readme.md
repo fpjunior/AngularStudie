@@ -41,17 +41,14 @@ export class AppBootstrapModule {}
     Bootstrap 4
     ngx-bootstrap
     ng-bootstrap
-    
-    ## Links Uteis
-    <a href="https://www.npmjs.com/package/json-server">Json Server </a><br>
-     <a href="https://getbootstrap.com/">BootStrap </a><br>
-      <a href="https://loiane.com//">Loiane </a><br>
+ 
      
      ## Useful links
     <a href="https://www.npmjs.com/package/json-server">Json Server </a><br>
      <a href="https://getbootstrap.com/">BootStrap </a><br>
       <a href="https://loiane.com//">Loiane </a><br>
       <a href="https://material.io/develop/web/docs/getting-started/"> Material </a><br>
+      <a href="https://stackblitz.com/angular/qyggnlyjmno?file=src%2Fapp%2Fslider-overview-example.html">Loiane </a><br>
      
     
     
