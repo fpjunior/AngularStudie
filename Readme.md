@@ -48,8 +48,8 @@ export class AppBootstrapModule {}
      <a href="https://getbootstrap.com/">BootStrap </a><br>
       <a href="https://loiane.com//">Loiane </a><br>
       <a href="https://material.io/develop/web/docs/getting-started/"> Material </a><br>
-      <a href="https://stackblitz.com/angular/qyggnlyjmno?file=src%2Fapp%2Fslider-overview-example.html">Loiane </a><br>
-     <a href="https://material.angular.io/components/categories">Loiane </a><br>
+      <a href="https://stackblitz.com/angular/qyggnlyjmno?file=src%2Fapp%2Fslider-overview-example.html">Blitz </a><br>
+     <a href="https://material.angular.io/components/categories">Material Angular </a><br>
     
     
 
